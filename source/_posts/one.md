@@ -1,10 +1,17 @@
 ---
 title: one
 date: 2022-11-28 09:29:22
-tags:
 top: true
 cover: true
 password: 930a68a51a2db950f58fd3b0b5f1d76f56afaa16e12a418d71ca6c25f2390424
+tags:
+- java
+- javascript
+- python
+- go
+- rust
+categories:
+	- 代码
 ---
 
 
