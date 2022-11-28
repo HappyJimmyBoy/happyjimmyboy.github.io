@@ -57,7 +57,7 @@ cover:
   showIndicators: true # 是否显示指示器. # Whether to display the indicators
   autoLoop: true # 是否自动轮播. Whether it is automatically rotated.
   duration: 120 # 切换延迟时间. Switching delay time.
-  intervalTime: 5000 # 自动切换下一张的间隔时间. Automatically switch the interval of the next one.
+  intervalTime: 8000 # 自动切换下一张的间隔时间. Automatically switch the interval of the next one.
   useConfig: false # 是否使用配置文件, 在 _data/covers.json 下配置推荐文章, false则使用主题在文章中的配置 cover coverImg
   # useConfig 使用方式: 将主题 hexo-theme-matery/source/_data/covers.json 移动到 my-blog/source/_data/下修改配置即可
   video:
@@ -160,7 +160,7 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/ha
+  github:  https://github.com/happyjimmyboy
   email: autumneatcabbage@163.com
   # facebook: # https://www.facebook.com/xxx
   # twitter: # https://twitter.com/xxx
@@ -226,7 +226,7 @@ postInfo:
 # Whether to activate the 'love' effect of clicking on the page.
 # 是否激活点击页面的'爱心'效果，默认激活.
 clicklove:
-  enable: true
+  enable: false
 
 # | 文件名             | 说明                   |
 # | :----------------- | :--------------------- |
@@ -256,7 +256,7 @@ snowdown:
 profile:
   avatar: /medias/avatar.jpg
   career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  # introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
@@ -408,7 +408,7 @@ changyan:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://github.com/happyjimmyboy
   title: Fork Me
 
 # The configuration of the Twikoo comment module is not activated by default.
@@ -448,8 +448,8 @@ googleAnalytics:
 # Add baidu analytics configuration
 # 添加 baidu Analytics 配置
 baiduAnalytics:
-  enable: false
-  id:
+  enable: true
+  id: e732cb08ac2759b17df83ed4135be082
 
 # 百度搜索资源平台提交链接
 baiduPush: true
@@ -630,7 +630,7 @@ subtitle:
   backSpeed: 50 # 删除速度
   sub:
     - 从来没有真正的绝境, 只有心灵的迷途
-    - Never really desperate, only the lost of the soul
+    # - Never really desperate, only the lost of the soul
 
 # 手机二级菜单.
 navMenu:
