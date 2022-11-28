@@ -334,13 +334,13 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: true
-  owner:  happyjimmyboy
-  repo: https://github.com/HappyJimmyBoy/HappyJimmyBoy.github.io
+  enable: false
+  owner:  
+  repo: 
   oauth:
-    clientId: 718ff4032a8fe40e037f
-    clientSecret: 91e98c4659f300a40f21a10082961fcbd2c54165
-  admin: happyjimmyboy
+    clientId: 
+    clientSecret: 
+  admin: 
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
@@ -361,8 +361,8 @@ disqus:
 # Livere comment configuration, the default is not activated
 # Livere 来必力评论模块的配置，默认为不激活
 livere:
-  enable: false
-  uid:
+  enable: true
+  uid: MTAyMC81NzcwMy8zNDE2Ng==
 
 # 腾讯人机验证
 # 注意：目前只适配和测试了valine，其它评论系统未调试验证！
