@@ -334,13 +334,13 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: false
-  owner:
-  repo:
+  enable: true
+  owner:  happyjimmyboy
+  repo: https://github.com/HappyJimmyBoy/HappyJimmyBoy.github.io
   oauth:
-    clientId:
-    clientSecret:
-  admin:
+    clientId: 718ff4032a8fe40e037f
+    clientSecret: 91e98c4659f300a40f21a10082961fcbd2c54165
+  admin: happyjimmyboy
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
