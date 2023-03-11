@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jimmy</title>
+  
+  <subtitle>JIMMY的小世界</subtitle>
+  <link href="https://happyjimmyboy.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://happyjimmyboy.github.io/"/>
+  <updated>2023-03-11T16:13:14.048Z</updated>
+  <id>https://happyjimmyboy.github.io/</id>
+  
+  <author>
+    <name>jimmy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>02_牛人博客</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/06/guide/02-niu-ren-bo-ke/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/06/guide/02-niu-ren-bo-ke/</id>
+    <published>2022-12-06T15:38:18.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-大圣前端进阶指南&quot;&gt;&lt;a href=&quot;#1-大圣前端进阶指南&quot; class=&quot;headerlink&quot; title=&quot;1. 大圣前端进阶指南&quot;&gt;&lt;/a&gt;1. &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="博客" scheme="https://happyjimmyboy.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="牛人" scheme="https://happyjimmyboy.github.io/tags/%E7%89%9B%E4%BA%BA/"/>
+    
+    <category term="大神" scheme="https://happyjimmyboy.github.io/tags/%E5%A4%A7%E7%A5%9E/"/>
+    
+    <category term="博客" scheme="https://happyjimmyboy.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>00_计算机资源汇总</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/06/series/computer/ji-suan-ji-ji-chu/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/06/series/computer/ji-suan-ji-ji-chu/</id>
+    <published>2022-12-06T15:24:22.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-设计模式&quot;&gt;&lt;a href=&quot;#1-设计模式&quot; class=&quot;headerlink&quot; title=&quot;1.设计模式&quot;&gt;&lt;/a&gt;1.设计模式&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="计算机基础" scheme="https://happyjimmyboy.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="计算机" scheme="https://happyjimmyboy.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    <category term="编程" scheme="https://happyjimmyboy.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="基础知识" scheme="https://happyjimmyboy.github.io/tags/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="通识" scheme="https://happyjimmyboy.github.io/tags/%E9%80%9A%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>00_Java学习资源汇总</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/06/series/java/00-zi-yuan-hui-zong/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/06/series/java/00-zi-yuan-hui-zong/</id>
+    <published>2022-12-06T14:57:19.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;java学习资源&quot;&gt;&lt;a href=&quot;#java学习资源&quot; class=&quot;headerlink&quot; title=&quot;java学习资源&quot;&gt;&lt;/a&gt;java学习资源&lt;/h1&gt;&lt;h2 id=&quot;1-Java-全栈知识体系&quot;&gt;&lt;a href=&quot;#1-Java-全栈知识体系&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>常用工具导航</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/06/guide/01-zi-yuan-dao-hang/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/06/guide/01-zi-yuan-dao-hang/</id>
+    <published>2022-12-06T09:36:38.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-短信&quot;&gt;&lt;a href=&quot;#1-短信&quot; class=&quot;headerlink&quot; title=&quot;1.短信&quot;&gt;&lt;/a&gt;1.短信&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://happyjimmyboy.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="短信" scheme="https://happyjimmyboy.github.io/tags/%E7%9F%AD%E4%BF%A1/"/>
+    
+    <category term="虚拟手机号" scheme="https://happyjimmyboy.github.io/tags/%E8%99%9A%E6%8B%9F%E6%89%8B%E6%9C%BA%E5%8F%B7/"/>
+    
+    <category term="虚拟电话号码" scheme="https://happyjimmyboy.github.io/tags/%E8%99%9A%E6%8B%9F%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01_playwright_nodejs_实现截图</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/02/series/playwright/01/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/02/series/playwright/01/</id>
+    <published>2022-12-02T15:18:03.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-简介&quot;&gt;&lt;a href=&quot;#1-简介&quot; class=&quot;headerlink&quot; title=&quot;1.简介&quot;&gt;&lt;/a&gt;1.简介&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="爬虫" scheme="https://happyjimmyboy.github.io/categories/%E7%88%AC%E8%99%AB/"/>
+    
+    
+    <category term="爬虫" scheme="https://happyjimmyboy.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="playwright" scheme="https://happyjimmyboy.github.io/tags/playwright/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>01_Scrapy学习记录</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/01/series/python/scrapy/01/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/01/series/python/scrapy/01/</id>
+    <published>2022-12-01T13:23:19.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+    
+    
+    <category term="Scrapy" scheme="https://happyjimmyboy.github.io/categories/Scrapy/"/>
+    
+    
+    <category term="爬虫" scheme="https://happyjimmyboy.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="python" scheme="https://happyjimmyboy.github.io/tags/python/"/>
+    
+    <category term="Scrapy" scheme="https://happyjimmyboy.github.io/tags/Scrapy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux常用命令</title>
+    <link href="https://happyjimmyboy.github.io/2022/11/28/series/linux/01/"/>
+    <id>https://happyjimmyboy.github.io/2022/11/28/series/linux/01/</id>
+    <published>2022-11-28T14:14:25.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;常用命令&quot;&gt;&lt;a href=&quot;#常用命令&quot; class=&quot;headerlink&quot; title=&quot;常用命令&quot;&gt;&lt;/a&gt;常用命令&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;head -n 4</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://happyjimmyboy.github.io/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://happyjimmyboy.github.io/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客搭建</title>
+    <link href="https://happyjimmyboy.github.io/2022/11/28/bo-ke-da-jian/"/>
+    <id>https://happyjimmyboy.github.io/2022/11/28/bo-ke-da-jian/</id>
+    <published>2022-11-28T07:53:58.000Z</published>
+    <updated>2023-03-11T16:13:14.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;该博客主要采用&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;博客框架以及主题&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="第一篇博客" scheme="https://happyjimmyboy.github.io/categories/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://happyjimmyboy.github.io/tags/Hexo/"/>
+    
+    <category term="Matery" scheme="https://happyjimmyboy.github.io/tags/Matery/"/>
+    
+  </entry>
+  
+</feed>
