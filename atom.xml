@@ -6,7 +6,7 @@
   <link href="https://happyjimmyboy.github.io/atom.xml" rel="self"/>
   
   <link href="https://happyjimmyboy.github.io/"/>
-  <updated>2023-03-25T12:40:34.963Z</updated>
+  <updated>2023-03-29T14:13:52.391Z</updated>
   <id>https://happyjimmyboy.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>AI工具集</title>
+    <link href="https://happyjimmyboy.github.io/2023/03/29/guide/03-ai-dao-hang/"/>
+    <id>https://happyjimmyboy.github.io/2023/03/29/guide/03-ai-dao-hang/</id>
+    <published>2023-03-29T14:10:38.000Z</published>
+    <updated>2023-03-29T14:13:52.391Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;AI工具集&quot;&gt;&lt;a href=&quot;#AI工具集&quot; class=&quot;headerlink&quot; title=&quot;AI工具集&quot;&gt;&lt;/a&gt;AI工具集&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="AI" scheme="https://happyjimmyboy.github.io/categories/AI/"/>
+    
+    
+    <category term="AI" scheme="https://happyjimmyboy.github.io/tags/AI/"/>
+    
+    <category term="导航" scheme="https://happyjimmyboy.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+    <category term="AI导航" scheme="https://happyjimmyboy.github.io/tags/AI%E5%AF%BC%E8%88%AA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>01-Nodejs记录</title>
     <link href="https://happyjimmyboy.github.io/2023/03/11/series/nodejs/01/"/>
     <id>https://happyjimmyboy.github.io/2023/03/11/series/nodejs/01/</id>
     <published>2023-03-11T16:35:56.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -48,7 +77,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/guide/02-niu-ren-bo-ke/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/guide/02-niu-ren-bo-ke/</id>
     <published>2022-12-06T15:38:18.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -77,7 +106,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/series/computer/ji-suan-ji-ji-chu/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/series/computer/ji-suan-ji-ji-chu/</id>
     <published>2022-12-06T15:24:22.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -109,7 +138,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/series/java/00-zi-yuan-hui-zong/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/series/java/00-zi-yuan-hui-zong/</id>
     <published>2022-12-06T14:57:19.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -130,7 +159,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/guide/01-zi-yuan-dao-hang/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/guide/01-zi-yuan-dao-hang/</id>
     <published>2022-12-06T09:36:38.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -159,7 +188,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/02/series/playwright/01/"/>
     <id>https://happyjimmyboy.github.io/2022/12/02/series/playwright/01/</id>
     <published>2022-12-02T15:18:03.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -186,7 +215,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/01/series/python/scrapy/01/"/>
     <id>https://happyjimmyboy.github.io/2022/12/01/series/python/scrapy/01/</id>
     <published>2022-12-01T13:23:19.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
     
@@ -207,7 +236,7 @@
     <link href="https://happyjimmyboy.github.io/2022/11/28/series/linux/01/"/>
     <id>https://happyjimmyboy.github.io/2022/11/28/series/linux/01/</id>
     <published>2022-11-28T14:14:25.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
@@ -233,7 +262,7 @@
     <link href="https://happyjimmyboy.github.io/2022/11/28/bo-ke-da-jian/"/>
     <id>https://happyjimmyboy.github.io/2022/11/28/bo-ke-da-jian/</id>
     <published>2022-11-28T07:53:58.000Z</published>
-    <updated>2023-03-25T12:40:34.963Z</updated>
+    <updated>2023-03-29T14:13:52.391Z</updated>
     
     
       
