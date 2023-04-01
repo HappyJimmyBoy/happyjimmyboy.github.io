@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>wifi密码</title>
+      <link href="/2023/04/01/nodejs/01-wifi-mi-ma-po-jie/"/>
+      <url>/2023/04/01/nodejs/01-wifi-mi-ma-po-jie/</url>
+      
+        <content type="html"><![CDATA[<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><pre class="line-numbers language-none"><code class="language-none">npm install wifi-passwordconst wifiPassword = require('wifi-password');//当前wifi密码wifiPassword().then(password =&gt; {console.log(password);});//其他wifi密码wifiPassword("wifiname").then(password =&gt; {console.log(password);});<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> wifi </category>
+          
+          <category> 密码 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> wifi </tag>
+            
+            <tag> 密码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>AI工具集</title>
       <link href="/2023/03/29/guide/03-ai-dao-hang/"/>
       <url>/2023/03/29/guide/03-ai-dao-hang/</url>
