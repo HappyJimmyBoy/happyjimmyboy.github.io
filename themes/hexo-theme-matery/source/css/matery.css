@@ -290,6 +290,7 @@ header nav .brand-span {
 }
 
 header .brand-logo .logo-img {
+    border-radius: 50%;
     height: 45px;
     vertical-align: middle;
     padding-bottom: 6px;
@@ -550,10 +551,10 @@ header .go-back i {
     height: 40vh !important;
 }
 
-.bg-cover:after {
-    -webkit-animation: rainbow 60s infinite;
-    animation: rainbow 60s infinite;
-}
+/* .bg-cover:after { */
+    /* -webkit-animation: rainbow 60s infinite; */
+    /* animation: rainbow 60s infinite; */
+/* } */
 
 .bg-cover:before,
 .bg-cover:after {
