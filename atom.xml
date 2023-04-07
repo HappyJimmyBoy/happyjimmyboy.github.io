@@ -6,7 +6,7 @@
   <link href="https://happyjimmyboy.github.io/atom.xml" rel="self"/>
   
   <link href="https://happyjimmyboy.github.io/"/>
-  <updated>2023-04-01T17:02:43.726Z</updated>
+  <updated>2023-04-07T06:15:11.174Z</updated>
   <id>https://happyjimmyboy.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://happyjimmyboy.github.io/2023/04/01/nodejs/01-wifi-mi-ma-po-jie/"/>
     <id>https://happyjimmyboy.github.io/2023/04/01/nodejs/01-wifi-mi-ma-po-jie/</id>
     <published>2023-04-01T16:58:47.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -50,7 +50,7 @@
     <link href="https://happyjimmyboy.github.io/2023/03/29/guide/03-ai-dao-hang/"/>
     <id>https://happyjimmyboy.github.io/2023/03/29/guide/03-ai-dao-hang/</id>
     <published>2023-03-29T14:10:38.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -79,14 +79,14 @@
     <link href="https://happyjimmyboy.github.io/2023/03/11/series/nodejs/01/"/>
     <id>https://happyjimmyboy.github.io/2023/03/11/series/nodejs/01/</id>
     <published>2023-03-11T16:35:56.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
         
       
     
@@ -102,11 +102,71 @@
   </entry>
   
   <entry>
+    <title>hexo引入思维导图</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/20/daily/2022-12-20-hexo-plugin-mindmap/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/20/daily/2022-12-20-hexo-plugin-mindmap/</id>
+    <published>2022-12-20T02:33:08.000Z</published>
+    <updated>2023-04-07T06:15:11.174Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-安装依赖&quot;&gt;&lt;a href=&quot;#1-安装依赖&quot; class=&quot;headerlink&quot; title=&quot;1.安装依赖&quot;&gt;&lt;/a&gt;1.安装依赖&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;npm install</summary>
+        
+      
+    
+    
+    
+    <category term="思维导图" scheme="https://happyjimmyboy.github.io/categories/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+    
+    
+    <category term="思维导图" scheme="https://happyjimmyboy.github.io/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
+    
+    <category term="成长路线" scheme="https://happyjimmyboy.github.io/tags/%E6%88%90%E9%95%BF%E8%B7%AF%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>flyway_springboot简单使用</title>
+    <link href="https://happyjimmyboy.github.io/2022/12/12/daily/2022-12-13-flyway/"/>
+    <id>https://happyjimmyboy.github.io/2022/12/12/daily/2022-12-13-flyway/</id>
+    <published>2022-12-12T15:13:06.000Z</published>
+    <updated>2023-04-07T06:15:11.174Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-flyway简介&quot;&gt;&lt;a href=&quot;#1-flyway简介&quot; class=&quot;headerlink&quot; title=&quot;1.flyway简介&quot;&gt;&lt;/a&gt;1.flyway简介&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Increase reliability of</summary>
+        
+      
+    
+    
+    
+    <category term="java" scheme="https://happyjimmyboy.github.io/categories/java/"/>
+    
+    
+    <category term="flyway" scheme="https://happyjimmyboy.github.io/tags/flyway/"/>
+    
+    <category term="springboot" scheme="https://happyjimmyboy.github.io/tags/springboot/"/>
+    
+    <category term="mysql" scheme="https://happyjimmyboy.github.io/tags/mysql/"/>
+    
+    <category term="数据库迁移" scheme="https://happyjimmyboy.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%81%E7%A7%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>02_牛人博客</title>
     <link href="https://happyjimmyboy.github.io/2022/12/06/guide/02-niu-ren-bo-ke/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/guide/02-niu-ren-bo-ke/</id>
     <published>2022-12-06T15:38:18.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -135,7 +195,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/series/computer/ji-suan-ji-ji-chu/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/series/computer/ji-suan-ji-ji-chu/</id>
     <published>2022-12-06T15:24:22.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -167,7 +227,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/series/java/00-zi-yuan-hui-zong/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/series/java/00-zi-yuan-hui-zong/</id>
     <published>2022-12-06T14:57:19.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -188,7 +248,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/06/guide/01-zi-yuan-dao-hang/"/>
     <id>https://happyjimmyboy.github.io/2022/12/06/guide/01-zi-yuan-dao-hang/</id>
     <published>2022-12-06T09:36:38.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -217,7 +277,7 @@
     <link href="https://happyjimmyboy.github.io/2022/12/02/series/playwright/01/"/>
     <id>https://happyjimmyboy.github.io/2022/12/02/series/playwright/01/</id>
     <published>2022-12-02T15:18:03.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -244,8 +304,16 @@
     <link href="https://happyjimmyboy.github.io/2022/12/01/series/python/scrapy/01/"/>
     <id>https://happyjimmyboy.github.io/2022/12/01/series/python/scrapy/01/</id>
     <published>2022-12-01T13:23:19.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
+    
+      
+      
+        
+        
+    <summary type="html">&lt;script type=&quot;text&amp;#x2F;javascript&quot; src=&quot;https://unpkg.com/kity@2.0.4/dist/kity.min.js&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text&amp;#x2F;javascript&quot;</summary>
+        
+      
     
     
     
@@ -265,7 +333,7 @@
     <link href="https://happyjimmyboy.github.io/2022/11/28/series/linux/01/"/>
     <id>https://happyjimmyboy.github.io/2022/11/28/series/linux/01/</id>
     <published>2022-11-28T14:14:25.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       
@@ -291,7 +359,7 @@
     <link href="https://happyjimmyboy.github.io/2022/11/28/bo-ke-da-jian/"/>
     <id>https://happyjimmyboy.github.io/2022/11/28/bo-ke-da-jian/</id>
     <published>2022-11-28T07:53:58.000Z</published>
-    <updated>2023-04-01T17:02:43.726Z</updated>
+    <updated>2023-04-07T06:15:11.174Z</updated>
     
     
       

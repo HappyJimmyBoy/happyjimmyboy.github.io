@@ -8,7 +8,7 @@
       <link href="/2023/04/01/nodejs/01-wifi-mi-ma-po-jie/"/>
       <url>/2023/04/01/nodejs/01-wifi-mi-ma-po-jie/</url>
       
-        <content type="html"><![CDATA[<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><pre class="line-numbers language-none"><code class="language-none">npm install wifi-passwordconst wifiPassword = require('wifi-password');//当前wifi密码wifiPassword().then(password =&gt; {console.log(password);});//其他wifi密码wifiPassword("wifiname").then(password =&gt; {console.log(password);});<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<h2 id="代码如下"><a href="#代码如下" class="headerlink" title="代码如下"></a>代码如下</h2><pre class="line-numbers language-none"><code class="language-none">npm install wifi-passwordconst wifiPassword = require('wifi-password');//当前wifi密码wifiPassword().then(password =&gt; {console.log(password);});//其他wifi密码wifiPassword("wifiname").then(password =&gt; {console.log(password);});<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -37,7 +37,7 @@
       <link href="/2023/03/29/guide/03-ai-dao-hang/"/>
       <url>/2023/03/29/guide/03-ai-dao-hang/</url>
       
-        <content type="html"><![CDATA[<h2 id="AI工具集"><a href="#AI工具集" class="headerlink" title="AI工具集"></a>AI工具集</h2><p><a href="https://ai-bot.cn/">AI工具集</a>各种ai网站导航.</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="AI工具集"><a href="#AI工具集" class="headerlink" title="AI工具集"></a>AI工具集</h2><p><a href="https://ai-bot.cn/">AI工具集</a>各种ai网站导航.</p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -66,7 +66,7 @@
       <link href="/2023/03/11/series/nodejs/01/"/>
       <url>/2023/03/11/series/nodejs/01/</url>
       
-        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
+        <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -89,11 +89,69 @@
     
     
     <entry>
+      <title>hexo引入思维导图</title>
+      <link href="/2022/12/20/daily/2022-12-20-hexo-plugin-mindmap/"/>
+      <url>/2022/12/20/daily/2022-12-20-hexo-plugin-mindmap/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-安装依赖"><a href="#1-安装依赖" class="headerlink" title="1.安装依赖"></a>1.安装依赖</h2><blockquote><p>npm install hexo-simple-mindmap</p></blockquote><h2 id="2-使用方法"><a href="#2-使用方法" class="headerlink" title="2.使用方法"></a>2.使用方法</h2><pre class="line-numbers language-none"><code class="language-none">{% pullquote mindmap mindmap-md %}- 在 Hexo 中使用思维导图  - 前言  - 操作指南    - 准备需要的文件    - 为主题添加 CSS/JS 文件  - 使用方法{% endpullquote %}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><blockquote><blockquote class="pullquote mindmap mindmap-md"><ul><li>工程师成长路线<ul><li>前端<ul><li>html</li><li>css<ul><li>flex</li><li>grid</li><li>…</li></ul></li><li>javascript<ul><li>vue</li><li>react</li><li>threejs</li><li>…</li></ul></li><li>nodejs</li></ul></li><li>移动端<ul><li>微信小程序（donut 多端框架）</li><li>uniapp</li></ul></li><li>后端 <ul><li>编程语言<ul><li>java<ul><li>spring全家桶</li></ul></li><li>python</li><li>go</li><li>nodejs</li><li>rust</li><li>…</li></ul></li><li>数据库<ul><li>mysql</li><li>mongodb</li><li>redis</li><li>elasticsearch</li><li>…</li></ul></li><li>微服务<ul><li>spring cloud alibaba</li><li>…</li></ul></li><li>其他<ul><li>docker</li><li>k8s</li><li>…</li></ul></li></ul></li></ul></li></ul></blockquote></blockquote><style>    .mindmap-md{        height:1000px !important;    }</style><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 思维导图 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 思维导图 </tag>
+            
+            <tag> 成长路线 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>flyway_springboot简单使用</title>
+      <link href="/2022/12/12/daily/2022-12-13-flyway/"/>
+      <url>/2022/12/12/daily/2022-12-13-flyway/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-flyway简介"><a href="#1-flyway简介" class="headerlink" title="1.flyway简介"></a>1.flyway简介</h2><blockquote><p>Increase reliability of deployments by<br>versioning your database</p></blockquote><h2 id="2-使用mysql需要注意"><a href="#2-使用mysql需要注意" class="headerlink" title="2.使用mysql需要注意"></a>2.使用mysql需要注意</h2><p>新版本不在支持msyql8,两种方式：</p><ul><li>使用低版本</li><li>安装依赖<br>本次采用安装依赖的方式,pom.xml如下：<pre class="line-numbers language-markup" data-language="markup"><code class="language-markup"> <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dependency</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>groupId</span><span class="token punctuation">&gt;</span></span>org.flywaydb<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>groupId</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>artifactId</span><span class="token punctuation">&gt;</span></span>flyway-mysql<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>artifactId</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>version</span><span class="token punctuation">&gt;</span></span>9.8.3<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>version</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dependency</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>dependency</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>groupId</span><span class="token punctuation">&gt;</span></span>org.flywaydb<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>groupId</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>artifactId</span><span class="token punctuation">&gt;</span></span>flyway-core<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>artifactId</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>version</span><span class="token punctuation">&gt;</span></span>9.8.3<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>version</span><span class="token punctuation">&gt;</span></span><span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>dependency</span><span class="token punctuation">&gt;</span></span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre></li></ul><h2 id="3-application-yml配置"><a href="#3-application-yml配置" class="headerlink" title="3.application.yml配置"></a>3.application.yml配置</h2><pre class="line-numbers language-yaml" data-language="yaml"><code class="language-yaml"><span class="token key atrule">spring</span><span class="token punctuation">:</span>  <span class="token key atrule">flyway</span><span class="token punctuation">:</span>    <span class="token key atrule">enabled</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>    <span class="token key atrule">locations</span><span class="token punctuation">:</span> classpath<span class="token punctuation">:</span>db/migration    <span class="token key atrule">baseline-on-migrate</span><span class="token punctuation">:</span> <span class="token boolean important">true</span>    <span class="token key atrule">datasource</span><span class="token punctuation">:</span>    <span class="token key atrule">url</span><span class="token punctuation">:</span> jdbc<span class="token punctuation">:</span>mysql<span class="token punctuation">:</span>//localhost<span class="token punctuation">:</span>3308/demo    <span class="token key atrule">password</span><span class="token punctuation">:</span> xxxx    <span class="token key atrule">driver-class-name</span><span class="token punctuation">:</span> com.mysql.cj.jdbc.Driver    <span class="token key atrule">username</span><span class="token punctuation">:</span> xxxx<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="4-注意事项"><a href="#4-注意事项" class="headerlink" title="4.注意事项"></a>4.注意事项</h2><p>数据库到的sql脚本命名需要符合flyway的命名规范。版本号__描述.sql,其中分隔为两个下划线。如v1.20221214.1525__create_table_user.sql。</p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> flyway </tag>
+            
+            <tag> springboot </tag>
+            
+            <tag> mysql </tag>
+            
+            <tag> 数据库迁移 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>02_牛人博客</title>
       <link href="/2022/12/06/guide/02-niu-ren-bo-ke/"/>
       <url>/2022/12/06/guide/02-niu-ren-bo-ke/</url>
       
-        <content type="html"><![CDATA[<h2 id="1-大圣前端进阶指南"><a href="#1-大圣前端进阶指南" class="headerlink" title="1. 大圣前端进阶指南"></a>1. <a href="https://shengxinjing.cn/">大圣前端进阶指南</a></h2><blockquote><p>前端进阶指南,解决前端进阶的难点面试, 企业级项目, 源码一网打尽</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-大圣前端进阶指南"><a href="#1-大圣前端进阶指南" class="headerlink" title="1. 大圣前端进阶指南"></a>1. <a href="https://shengxinjing.cn/">大圣前端进阶指南</a></h2><blockquote><p>前端进阶指南,解决前端进阶的难点面试, 企业级项目, 源码一网打尽</p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -122,7 +180,7 @@
       <link href="/2022/12/06/series/computer/ji-suan-ji-ji-chu/"/>
       <url>/2022/12/06/series/computer/ji-suan-ji-ji-chu/</url>
       
-        <content type="html"><![CDATA[<h2 id="1-设计模式"><a href="#1-设计模式" class="headerlink" title="1.设计模式"></a>1.设计模式</h2><blockquote><p><a href="https://refactoringguru.cn/design-patterns">设计模式</a></p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-设计模式"><a href="#1-设计模式" class="headerlink" title="1.设计模式"></a>1.设计模式</h2><blockquote><p><a href="https://refactoringguru.cn/design-patterns">设计模式</a></p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -153,7 +211,7 @@
       <link href="/2022/12/06/series/java/00-zi-yuan-hui-zong/"/>
       <url>/2022/12/06/series/java/00-zi-yuan-hui-zong/</url>
       
-        <content type="html"><![CDATA[<h1 id="java学习资源"><a href="#java学习资源" class="headerlink" title="java学习资源"></a>java学习资源</h1><h2 id="1-Java-全栈知识体系"><a href="#1-Java-全栈知识体系" class="headerlink" title="1. Java 全栈知识体系"></a>1. <a href="https://pdai.tech/">Java 全栈知识体系</a></h2><blockquote><p>包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目…</p></blockquote><h2 id="2-bugstack-虫洞栈"><a href="#2-bugstack-虫洞栈" class="headerlink" title="2. bugstack 虫洞栈"></a>2. <a href="https://bugstack.cn/">bugstack 虫洞栈</a></h2><blockquote><p>包含: Java 基础，面经手册，Netty4.x，手写Spring，用Java实现JVM，重学Java设计模式，SpringBoot中间件开发，IDEA插件开发，DDD系统架构项目开发，字节码编程…</p></blockquote><h2 id="3-B站java视频"><a href="#3-B站java视频" class="headerlink" title="3.B站java视频"></a>3.B站java视频</h2><ul><li><a href="https://space.bilibili.com/302417610">尚硅谷</a><ul><li><a href="https://www.bilibili.com/read/cv5216534">学习路线</a></li></ul></li><li><a href="https://space.bilibili.com/37974444">黑马程序员</a><ul><li><a href="https://www.bilibili.com/read/cv9965357?spm_id_from=333.788.b_636f6d6d656e74.7">学习路线</a></li></ul></li><li><a href="https://space.bilibili.com/76542346">动力节点</a><ul><li><a href="https://www.bilibili.com/read/cv6395168?spm_id_from=333.999.0.0">学习路线</a></li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="java学习资源"><a href="#java学习资源" class="headerlink" title="java学习资源"></a>java学习资源</h1><h2 id="1-Java-全栈知识体系"><a href="#1-Java-全栈知识体系" class="headerlink" title="1. Java 全栈知识体系"></a>1. <a href="https://pdai.tech/">Java 全栈知识体系</a></h2><blockquote><p>包含: Java 基础, Java 部分源码, JVM, Spring, Spring Boot, Spring Cloud, 数据库原理, MySQL, ElasticSearch, MongoDB, Docker, k8s, CI&amp;CD, Linux, DevOps, 分布式, 中间件, 开发工具, Git, IDE, 源码阅读，读书笔记, 开源项目…</p></blockquote><h2 id="2-bugstack-虫洞栈"><a href="#2-bugstack-虫洞栈" class="headerlink" title="2. bugstack 虫洞栈"></a>2. <a href="https://bugstack.cn/">bugstack 虫洞栈</a></h2><blockquote><p>包含: Java 基础，面经手册，Netty4.x，手写Spring，用Java实现JVM，重学Java设计模式，SpringBoot中间件开发，IDEA插件开发，DDD系统架构项目开发，字节码编程…</p></blockquote><h2 id="3-B站java视频"><a href="#3-B站java视频" class="headerlink" title="3.B站java视频"></a>3.B站java视频</h2><ul><li><a href="https://space.bilibili.com/302417610">尚硅谷</a><ul><li><a href="https://www.bilibili.com/read/cv5216534">学习路线</a></li></ul></li><li><a href="https://space.bilibili.com/37974444">黑马程序员</a><ul><li><a href="https://www.bilibili.com/read/cv9965357?spm_id_from=333.788.b_636f6d6d656e74.7">学习路线</a></li></ul></li><li><a href="https://space.bilibili.com/76542346">动力节点</a><ul><li><a href="https://www.bilibili.com/read/cv6395168?spm_id_from=333.999.0.0">学习路线</a></li></ul></li></ul><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       
@@ -166,7 +224,7 @@
       <link href="/2022/12/06/guide/01-zi-yuan-dao-hang/"/>
       <url>/2022/12/06/guide/01-zi-yuan-dao-hang/</url>
       
-        <content type="html"><![CDATA[<h2 id="1-短信"><a href="#1-短信" class="headerlink" title="1.短信"></a>1.短信</h2><p><a href="https://sms-activate.org/cn">sms-activate.org</a>用于接收来自世界各地短信的虚拟号码,可以用来接收各种账号以及网站注册等需要提供短信验证码等情况。</p><h2 id="2-软件下载"><a href="#2-软件下载" class="headerlink" title="2.软件下载"></a>2.软件下载</h2><p><a href="https://www.rjsos.com/">玩机手册</a>互联网常见软件下载网站包括win、 Mac等。</p><h2 id="3-指南网站"><a href="#3-指南网站" class="headerlink" title="3.指南网站"></a>3.指南网站</h2><p><a href="https://zh.wikihow.com/%E9%A6%96%E9%A1%B5">wikiHow</a>互联网上最值得信赖的指南网站。</p><h2 id="4-每天一小时的免费时间-vpn"><a href="#4-每天一小时的免费时间-vpn" class="headerlink" title="4.每天一小时的免费时间(vpn)"></a>4.每天一小时的免费时间(vpn)</h2><p><a href="http://greenhubtx.ga/">GREENHUB</a>適合所有人的免費</p><h2 id="5-电子书下载"><a href="#5-电子书下载" class="headerlink" title="5.电子书下载"></a>5.电子书下载</h2><p><a href="https://fire100.top/">fire book</a>计算机电子书</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-短信"><a href="#1-短信" class="headerlink" title="1.短信"></a>1.短信</h2><p><a href="https://sms-activate.org/cn">sms-activate.org</a>用于接收来自世界各地短信的虚拟号码,可以用来接收各种账号以及网站注册等需要提供短信验证码等情况。</p><h2 id="2-软件下载"><a href="#2-软件下载" class="headerlink" title="2.软件下载"></a>2.软件下载</h2><p><a href="https://www.rjsos.com/">玩机手册</a>互联网常见软件下载网站包括win、 Mac等。</p><h2 id="3-指南网站"><a href="#3-指南网站" class="headerlink" title="3.指南网站"></a>3.指南网站</h2><p><a href="https://zh.wikihow.com/%E9%A6%96%E9%A1%B5">wikiHow</a>互联网上最值得信赖的指南网站。</p><h2 id="4-每天一小时的免费时间-vpn"><a href="#4-每天一小时的免费时间-vpn" class="headerlink" title="4.每天一小时的免费时间(vpn)"></a>4.每天一小时的免费时间(vpn)</h2><p><a href="http://greenhubtx.ga/">GREENHUB</a>適合所有人的免費</p><h2 id="5-电子书下载"><a href="#5-电子书下载" class="headerlink" title="5.电子书下载"></a>5.电子书下载</h2><p><a href="https://fire100.top/">fire book</a>计算机电子书</p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -195,7 +253,7 @@
       <link href="/2022/12/02/series/playwright/01/"/>
       <url>/2022/12/02/series/playwright/01/</url>
       
-        <content type="html"><![CDATA[<h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1.简介"></a>1.简介</h2><p><a href="https://playwright.dev/">Playwright</a>是微软开源的一个UI自动化测试工具。</p><h2 id="2-代码"><a href="#2-代码" class="headerlink" title="2.代码"></a>2.代码</h2><p>通过使用该用工具可以很方便生成一些网页截图或者文件下载等功能,下面使用该工具实现一个简易的网页截图,utils.js代码如下:</p><pre class="line-numbers language-nodejs" data-language="nodejs"><code class="language-nodejs">const {chromium} = require('playwright');const playwright = async (url)=&gt;{// 为了方便查看将headless 设置为false.const browser = await chromium.launch({headless:false})const page =await browser.newPage()await page.goto(url)const buffer = await page.screenshot({path:"a.png"})await page.pdf({path:"a.pdf"})await page.close()await browser.close()// return buffer.toString('base64')}module.exports=playwright<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>index.js代码如下:</p><pre class="line-numbers language-nodejs" data-language="nodejs"><code class="language-nodejs">const playwright = require('./utils.js');const fs = require('fs');(async () =&gt; {await playwright('http://www.baidu.com')// const data = await playwright('http://www.baidu.com')// fs.writeFile("a.txt",data,(error,data)=&gt;{// console.log('ok');// })})()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="3-项目结构"><a href="#3-项目结构" class="headerlink" title="3.项目结构"></a>3.项目结构</h2><p><img src="/../../../assets/playwright/01_jietu.png" alt="截图"></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-简介"><a href="#1-简介" class="headerlink" title="1.简介"></a>1.简介</h2><p><a href="https://playwright.dev/">Playwright</a>是微软开源的一个UI自动化测试工具。</p><h2 id="2-代码"><a href="#2-代码" class="headerlink" title="2.代码"></a>2.代码</h2><p>通过使用该用工具可以很方便生成一些网页截图或者文件下载等功能,下面使用该工具实现一个简易的网页截图,utils.js代码如下:</p><pre class="line-numbers language-nodejs" data-language="nodejs"><code class="language-nodejs">const {chromium} = require('playwright');const playwright = async (url)=&gt;{// 为了方便查看将headless 设置为false.const browser = await chromium.launch({headless:false})const page =await browser.newPage()await page.goto(url)const buffer = await page.screenshot({path:"a.png"})await page.pdf({path:"a.pdf"})await page.close()await browser.close()// return buffer.toString('base64')}module.exports=playwright<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><p>index.js代码如下:</p><pre class="line-numbers language-nodejs" data-language="nodejs"><code class="language-nodejs">const playwright = require('./utils.js');const fs = require('fs');(async () =&gt; {await playwright('http://www.baidu.com')// const data = await playwright('http://www.baidu.com')// fs.writeFile("a.txt",data,(error,data)=&gt;{// console.log('ok');// })})()<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="3-项目结构"><a href="#3-项目结构" class="headerlink" title="3.项目结构"></a>3.项目结构</h2><p><img src="/../../../assets/playwright/01_jietu.png" alt="截图"></p><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -222,7 +280,7 @@
       <link href="/2022/12/01/series/python/scrapy/01/"/>
       <url>/2022/12/01/series/python/scrapy/01/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -251,7 +309,7 @@
       <link href="/2022/11/28/series/linux/01/"/>
       <url>/2022/11/28/series/linux/01/</url>
       
-        <content type="html"><![CDATA[<h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2><blockquote><p>head -n 4 file<br>显示文件前四行</p></blockquote><blockquote><p>tail -n 4 file<br>显示文件最后四行</p></blockquote><blockquote><p>less/more file<br>显示部分内容,可以查看更多</p></blockquote><blockquote><p>file filename<br>显示文件类型</p></blockquote><blockquote><p>which/whereis  |  find path -name  file<br>文件查找</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h2 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h2><blockquote><p>head -n 4 file<br>显示文件前四行</p></blockquote><blockquote><p>tail -n 4 file<br>显示文件最后四行</p></blockquote><blockquote><p>less/more file<br>显示部分内容,可以查看更多</p></blockquote><blockquote><p>file filename<br>显示文件类型</p></blockquote><blockquote><p>which/whereis  |  find path -name  file<br>文件查找</p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
@@ -276,7 +334,7 @@
       <link href="/2022/11/28/bo-ke-da-jian/"/>
       <url>/2022/11/28/bo-ke-da-jian/</url>
       
-        <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>该博客主要采用<a href="https://hexo.io/">Hexo</a>博客框架以及主题<a href="https://github.com/blinkfox/hexo-theme-matery">Matery</a>主题搭建而成。</p><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><blockquote><p>在子目录新建文章<br>hexo new post -p  path/name  title<br>2023年03月12日</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>该博客主要采用<a href="https://hexo.io/">Hexo</a>博客框架以及主题<a href="https://github.com/blinkfox/hexo-theme-matery">Matery</a>主题搭建而成。</p><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><blockquote><p>在子目录新建文章<br>hexo new post -p  path/name  title<br>2023年03月12日</p></blockquote><script type="text&#x2F;javascript" src="https://unpkg.com/kity@2.0.4/dist/kity.min.js"></script><script type="text&#x2F;javascript" src="https://unpkg.com/kityminder-core@1.4.50/dist/kityminder.core.min.js"></script><script defer="true" type="text&#x2F;javascript" src="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.js"></script><link rel="stylesheet" type="text&#x2F;css" href="https://unpkg.com/hexo-simple-mindmap@0.8.0/dist/mindmap.min.css">]]></content>
       
       
       <categories>
